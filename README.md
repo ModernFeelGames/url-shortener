@@ -7,7 +7,6 @@ This is a url shortener written in node js with mongodb
 
 `https://shortendurl.glitch.me/create/https://www.foo.com`**may return**
 
-
 `https://shortendurl.glitch.me/12345`
 
 This is a project made for freecodecamp
